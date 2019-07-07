@@ -6,7 +6,7 @@ What I'm hoping to get out of this course is a much better understanding of how 
 
 #**Portfolio**:
 Here's where I will post my work. 
-Thanks for checking out my page!
+
 -B
 
 
