@@ -1,2 +1,1 @@
-Below is my chart:
-![Image](//datawrapper.dwcdn.net/NWO9R/1/)
+<iframe title="Popularity of Politicians and Parties on Facebook" aria-label="Stacked Bars" src="//datawrapper.dwcdn.net/NWO9R/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="341"></iframe>
