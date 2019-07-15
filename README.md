@@ -16,6 +16,6 @@ https://datawrapper.dwcdn.net/NWO9R/1/
 
 OIG: DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley
 
-![image](https://infogram.com/number-of-individuals-held-1h8n6mqkjdgg2xo?live)
+
 
 
