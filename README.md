@@ -30,5 +30,10 @@ When creating visuals from the perspective of the data journalist, I first sough
 
 I chose to visualize data found on page 3 of the report—statistics related to the number of detainees who had been held over 72 hrs, as well as more than 10 days. The numbers are impactful in that they are simple and straightforward ratios that represent an incredibly complex problem of overcrowding on a large scale. I chose to use a pictorial visualization for two reasons. First, because it achieves the goal of humanizing the numbers by literally representing them in a human form. This assists in eliciting an emotional response. Second, because I was trying to highlight a subset of a whole in a way that would grab the attention of the audience the pictorial was able to do that in a nontraditional representation with minimal color and element use. The graphic is able to grab attention, plainly demonstrate the data, as well as humanize a statistic. 
  
+# **Reimagining a chart**:
+
+<script id="infogram_0_0253a5d2-e623-4d4a-89fe-bf13c13a1975" title="Untitled infographic" src="https://e.infogram.com/js/dist/embed.js?0in" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/0253a5d2-e623-4d4a-89fe-bf13c13a1975" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+The chart I chose for my critique was very well done and one of the things I thought to experiment with is color. Seeing if color can be reduced while maintaining all of the information.  
 
 
