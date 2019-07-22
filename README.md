@@ -36,6 +36,10 @@ I chose to visualize data found on page 3 of the report—statistics related to 
 
 The chart I chose for my critique was very well done and one of the things I thought to experiment with is color. Seeing if color can be reduced while maintaining all of the information. The orignal chart had two separate categories for damage--internal and external. 'Harm to user' was broken down to health damage, mental impairment and dependence, mortality, loss of tangibles and relatinships while 'Harm to Others' was broken down by community, econ and environmental costs, crime and injurty, and family adversities. I thought that depending on the intention of the article, the author would want to simplify color. I also thought that by going dark grey for the category of 'harm to others' gave some negative emphasis to the externality. This exercise was particularly difficult when attempting to repackage very complex information without a solid understanding of the metrics behind the scoring system.
 
+## **OECD data visualization #2**
+
+<iframe src="https://data.oecd.org/chart/5CNT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CNT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
 
 
 
