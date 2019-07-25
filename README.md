@@ -1,4 +1,4 @@
-[a relative link](final_project_BroshaTkacheva.md)<br/>
+[Link to Final Project](final_project_BroshaTkacheva.md) 
 
 
 # **About Me**:
