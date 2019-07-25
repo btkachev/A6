@@ -15,7 +15,6 @@ Secondary: Presidential Personel Office. Feel pressure from the people (by way o
 
 Increase diversity within government to represent the diversity of the 327 million people who reside in the United States
 
-
 # **Sketches/Visualization Types**:
 
 The approach I wish to take is to use visualizations that are emotive. I'm acting from the perspective of a data journalist so the graphic should be simple, yet informative and will drive a point home. By highliting outrageous trends or statistics, we can grab the audience with a good hook and then convey the severity and importance of pressuring government to employ individuals representative of the entire nation.
@@ -32,7 +31,6 @@ Demonstrating Distribution
 Scatter plot-- dot representing employees of both genders within the context of two categories: age and rank within department
 Stacked Bar Chart or Stacked 100% Bar Chart -- make up of employees by age or gender
 Meaningful Pictograph--must convey complex analysis 
-
 
 
 # **Data**
