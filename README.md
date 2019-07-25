@@ -1,4 +1,4 @@
-[link to final project](https://github.com/btkachev/A6/blob/master/final_project_Brosha%20Tkacheva.md)
+[link to final_project_BroshaTkacheva](https://github.com/btkachev/A6/blob/master/final_project_Brosha%20Tkacheva.md)
 # **About Me**:
 
 Hey! My name is Brosha--some people call me B. I'm currently enrolled in the MPM program here at Heinz and I will hopefully be graduating in December. I've lived in Pgh for most of my life and currently reside on the North Side. My pronouns are she/her. 
