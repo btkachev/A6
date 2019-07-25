@@ -18,6 +18,10 @@ Increase diversity within government to represent the diversity of the 327 milli
 
 # **Sketches/Visualization Types**:
 
+The approach I wish to take is to use visualizations that are emotive. I'm acting from the perspective of a data journalist so the graphic should be simple, yet informative and will drive a point home. By highliting outrageous trends or statistics, we can grab the audience with a good hook and then convey the severity and importance of pressuring government to employ individuals representative of the entire nation.
+
+Example which packs a punch: More Secretaries of Education named 'John' than Female Secretaries *Total*
+
 ## Examples of Graphics:
 
 <script id="infogram_0_2c78c816-2c0c-4e62-8243-7eea0e266ce6" title="Untitled infographic" src="https://e.infogram.com/js/dist/embed.js?hUh" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2c78c816-2c0c-4e62-8243-7eea0e266ce6" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
