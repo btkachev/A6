@@ -35,6 +35,7 @@ In my other attempt to effectively convey the data I used a grouped bar chart. I
 # **Reimagining a chart**:
 
 The orignal chart: 
+(https://github.com/btkachev/A6/blob/master/Screen%20Shot%202019-07-24%20at%208.57.16%20PM.png)
 
 <script id="infogram_0_0253a5d2-e623-4d4a-89fe-bf13c13a1975" title="Untitled infographic" src="https://e.infogram.com/js/dist/embed.js?1Yq" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/0253a5d2-e623-4d4a-89fe-bf13c13a1975" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled infographic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
