@@ -1,4 +1,5 @@
-[Link to Final Project Proposal](final_project_BroshaTkacheva.md)<br/>
+[Link to Final Project Proposal)[http://btkachev.github.io/A6/final_project_BroshaTkacheva)
+
 
 # **About Me**:
 
