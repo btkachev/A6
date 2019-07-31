@@ -95,7 +95,9 @@ Would you use this in your work? | **Journalist**: Potentially. Maybe find other
 
 I looked to see if I could find chart types that were intersting, or perhaps more creative than I would usually go for. Added information re: collection and background to try to raise trust. 
 
+[Visual representation of web content show](https://btkachev.github.io/A6/IMG_8879.jpg) 
 
+Used blue to indicate additions I'm adding to web content on shorthand. Include more information on data source and compare administrations. Need to explore more creative visualization options. Pic/graph combinations.  
 
 
 
