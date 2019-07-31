@@ -70,7 +70,7 @@ Method of interview
 
 1. Informal. Approximately 5 to 10 min interview
 2. One interview over email/phone and two interviews face-to-face. 
-3. Interviewee shown layout/visualizatons
+3. Interviewee shown drawn layout/ digital visualizatons on my laptop and in one case, email.
 4. I ask several questions and write down their main points as they are said.
 
 ## Interview Script
