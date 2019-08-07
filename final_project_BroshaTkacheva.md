@@ -45,9 +45,6 @@ This section provides a more visual outline of the story I hope to tell. As ment
 
 Personas: During the audience analysis portion of Part I, I spent some time discussing the fact that these visualizations are geared toward journalists. This was based on my conversation with an individual associated with the organization. In my mind, the persona is an individual between 30-60 (working age), with some higher education, interest in government, accountability, equity. Essentially, I modeled this persona on journalists with whom I am familiar and whose work I enjoy. 
 
-
-
-
 ## User research protocol
 
 Audience | Description
@@ -98,6 +95,26 @@ I looked to see if I could find chart types that were intersting, or perhaps mor
 [Visual representation of web content shown](https://btkachev.github.io/A6/IMG_8879.jpg) 
 
 Used blue to indicate additions I'm adding to web content on shorthand. Include more information on data source and compare administrations. Need to explore more creative visualization options. Pic/graph combinations.  
+
+# **Part III**
+
+[Final Presentation: Gender Equity](https://carnegiemellon.shorthandstories.com/genderequityamongappointees/index.html) 
+
+## **Revisions**
+
+### *Audience* 
+
+I discussed my target audience at length in the above section but continued to go back to refine in order to try to make an impact. After some thought and discussion, I decided to revise and improve how I achieve the goal of getting the White House to appoint more women to executive positions. I revised my approach to the visualizations. Playing around with a number of approaches, I decided that the simpler and more visualized the problem the better. I focused on filtering down the data so that I could represent it via pictorial visualizations. I created a three tier diagram to contrast the number of women to men leaders. My audience/feedback member from a journalist background suggested that while the visualizations aren't great for print, they are appealing on a mobile device, as well as online generally. 
+
+I had to slightly alter my methodology for data aggregation. Via Salesforce, I queried results in a way where I was specifically looking at executive and directorial positions. By contrasting the overall make up of the Department of Education over the last 25 years or so (Clinton, Bush, Obama Administrations) I think I was able to better demonstrate the lack of sufficient female representations at the very top levels. 
+
+Furthermore, to reach my audience who would be able to engage with the White House Presidential Personnel Office I created a White House petition as I thought that that would be a great call to action. This was a bit of a last minute decision, but an important one since the best way to institute change, in my opinion, is by eliminating or decreasing the number of hurdles people need to jump in order to make a difference. Not everyone has time, but they can click a link and sign a petition. 
+
+Data visualization is incredibly difficult for me and so was this project. I had to figure out a way to make visualizations that would make sense for a person like me--someone who has trouble with quantitative approaches, as well as understanding complex visualizations--while also creating something that a journalist and/or content creator could use. The goal was create a number of visualizations which could stand alone and grab attention. 
+
+## **Resources**
+
+I almost entirely relied on the data supplied by Inclusive America, which is housed on Salesforce. The majority of the data was supplied by the WH Presidential Personnel Office and input by volunteers, interns, etc. and was in reference to appointees within the Department of Education. 
 
 
 
