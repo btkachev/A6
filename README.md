@@ -12,7 +12,7 @@ What I'm hoping to get out of this course is a much better understanding of how 
 
 Here's where I will post my work. 
 
-https://datawrapper.dwcdn.net/NWO9R/1/
+[link to 1st attempt at a visualization-attempting to fix bar chart regarding politican party popularity](https://datawrapper.dwcdn.net/NWO9R/1/)
 
 # **Assignment 2**:
 
