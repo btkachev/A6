@@ -116,7 +116,7 @@ Data visualization is incredibly difficult for me and so was this project. I had
 
 I almost entirely relied on the data supplied by Inclusive America, which is housed on Salesforce. The majority of the data was supplied by the WH Presidential Personnel Office and input by volunteers, interns, etc. and was in reference to appointees within the Department of Education. 
 
-[link to plum book](https://www.govinfo.gov/collection/plum-bookpath=/gpo/United%20States%20Government%20Policy%20and%20Supporting%20Positions%20(Plum%20Book)/2016)
+[link to plum book](https://www.govinfo.gov/collection/plum-book?path=/gpo/United%20States%20Government%20Policy%20and%20Supporting%20Positions%20(Plum%20Book)/2016)
 
 [link to photo of presidential debate](https://www.washingtonpost.com/politics/decision2012/binder-full-of-women-comment-spills-onto-campaign-trail/2012/10/18/39bfbab8-1928-11e2-b97b-3ae53cdeaf69_story.html) 
 
